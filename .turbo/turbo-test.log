@@ -1,6 +1,0 @@
-
-> @lentix/env@0.0.0 test /home/lentix/_Projects_/Repos/Koridore/meta-project/packages/shared/env
-> jest --config jestconfig.json
-
-sh: 1: jest: not found
- ELIFECYCLE  Test failed. See above for more details.
